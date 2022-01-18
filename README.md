@@ -1,8 +1,6 @@
+# Further Explorations in Cartography
+
 p5js source code for the FXHash project 'Further Adventures in Cartography', available at https://www.fxhash.xyz/generative/7144
-
-# Name
-
-Further Explorations in Cartography
 
 # Generative Token description
 
